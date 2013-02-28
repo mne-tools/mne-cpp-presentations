@@ -1,0 +1,1386 @@
+<zuiprezi>
+  <version>5</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-131577.72544983338" y="-81112.33460382209" width="263155.45089966676" height="162224.66920764418"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+    </settings>
+    <object id="48_311803" type="button" x="41687.181101210925" y="11189.720930876385" r="0" s="209.54879032382337" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>633.6874051593322</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="8_311803" type="shape" x="33644.39723282522" y="13921.175532846895" r="-6.611838790517493e-17" s="67.72157767296673" class="line5">
+      <geom type="arrow">
+        <sp>-386.720733600239 0</sp>
+        <ep>386.720733600239 0</ep>
+        <t>7</t>
+      </geom>
+    </object>
+    <object id="11_311803" type="shape" x="20799.592523125426" y="11750.655774093684" r="-5.6133674388278995e-14" s="48.372555480690515" class="line5">
+      <geom type="line">
+        <sp>270.9664429966904 0</sp>
+        <ep>-270.9664429966904 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="13_311803" type="shape" x="20629.183048834577" y="15993.611992575876" r="-8.420051158241853e-14" s="48.372555480690515" class="line5">
+      <geom type="line">
+        <sp>272.2827497720484 0</sp>
+        <ep>-272.2827497720484 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="39_19027527" type="button" x="-7.508474941435807e-12" y="0" r="0" s="270.37444867940695" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>973.2851985559568</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="22_19027527" type="image" x="76990.73021179356" y="-20773.18957549718" r="0" s="66.68138129150509">
+      <source w="460" h="289">482185984.png<url>482185984.png</url>
+      </source>
+      <sourceUrl>workstation.png</sourceUrl>
+    <resource><id>
+        482185984
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/4/0/aed6a8a9a3ebad00e5b29712c2f019f37d78b.png</url></resource></object>
+    <object id="72_311803" type="button" x="75475.22214917841" y="-22706.19847402484" r="0" s="4.80033667072187" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>799.1670137442733</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="6_19027527" type="image" x="75475.22214917841" y="-22520.546117732305" r="0" s="2.116299302280209">
+      <source w="1316" h="979">481948704.png<url>481948704.png</url>
+      </source>
+      <sourceUrl>rtmeg_mockup_comb_white.png</sourceUrl>
+    <resource><id>
+        481948704
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/2/5/a5c4c9b76ccf16129a261a295df09ae431f77.png</url></resource></object>
+    <object id="46_311803" type="button" x="-45106.75042131785" y="11120.570851174383" r="0" s="210.43542021367142" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>679.6747967479674</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="29_19027527" type="image" x="-66839.42158204733" y="-10176.24796672858" r="0" s="88.90850838867347">
+      <source w="425" h="372">482217724.png<url>482217724.png</url>
+      </source>
+      <sourceUrl>BabyMEG.png</sourceUrl>
+    <resource><id>
+        482217724
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/4/3/2903bd905a62b93b6c63311fbc94e269b392a.png</url></resource></object>
+    <object id="33_19027527" type="image" x="-107035.00288379763" y="-64705.59999999993" r="0" s="79.71582827657554">
+      <source w="1418" h="206">482234408.png<url>482234408.png</url>
+        <mask x="0" y="0" w="179" h="206"/>
+      </source>
+      <sourceUrl>Logos.png</sourceUrl>
+    <resource><id>
+        482234408
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/6/1/dafb3b51d869131680abe75681fac56a6ce71.png</url></resource></object>
+    <object id="0" type="label" x="169.0758247418079" y="-67322.92918615171" r="0" s="279.84788663168354" class="head">
+      <textfield autoSize="true">
+        <x>-240.25</x>
+        <y>-18.3</y>
+        <text><![CDATA[MEG Real-Time Acquisition & Processing]]></text>
+        <annotations>r0-38 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="20_19027527" type="image" x="74934.66639989347" y="14743.569441712989" r="0" s="66.68138129150509">
+      <source w="207" h="292">482182858.png<url>482182858.png</url>
+      </source>
+      <sourceUrl>tablet.png</sourceUrl>
+    <resource><id>
+        482182858
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/d/1/278077e8fcb6735b47e75159c5d9af83be770.png</url></resource></object>
+    <object id="21_19027527" type="image" x="74981.08039182251" y="54673.61805196991" r="0" s="63.50607742048102">
+      <source w="424" h="289">482184126.png<url>482184126.png</url>
+      </source>
+      <sourceUrl>notebook.png</sourceUrl>
+    <resource><id>
+        482184126
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/9/1/deba678a7a12a67fac3ab10ed33a1a7454fe9.png</url></resource></object>
+    <object id="23_19027527" type="image" x="780.2620033453518" y="18145.874910870447" r="0" s="88.90850838867344">
+      <source w="460" h="289">482188516.png<url>482188516.png</url>
+        <mask x="309" y="0" w="151" h="289"/>
+      </source>
+      <sourceUrl>Workstation7474.png</sourceUrl>
+    <resource><id>
+        482188516
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/2/c/4d9db626b9faced126f48142e660f3e64c918.png</url></resource></object>
+    <object id="17_19027527" type="label" x="-67652.58631571241" y="-45609.90058043497" r="0" s="246.26438795982685" class="strong">
+      <textfield autoSize="true">
+        <x>-84.65</x>
+        <y>-17.5</y>
+        <text><![CDATA[Medical Devices]]></text>
+        <annotations>r0-15 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="26_19027527" type="label" x="770.736091732278" y="-45603.74831651814" r="0" s="246.26438795982685" class="strong">
+      <textfield autoSize="true">
+        <x>-90.2</x>
+        <y>-17.5</y>
+        <text><![CDATA[Real-Time Server]]></text>
+        <annotations>r0-16 { color: #35afa9; }
+r0-16 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="27_19027527" type="label" x="76991.04774218077" y="-45181.75043205907" r="0" s="246.26438795982696" class="strong">
+      <textfield autoSize="true">
+        <x>-93.05</x>
+        <y>-17.5</y>
+        <text><![CDATA[Real-Time Clients]]></text>
+        <annotations>r0-17 { color: #175d66; }
+r0-17 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="28_19027527" type="label" x="-101301.62955504557" y="44985.765941475474" r="0" s="175.9031342570192" class="strong">
+      <textfield autoSize="true">
+        <x>-55.2</x>
+        <y>-17.5</y>
+        <text><![CDATA[Neuromag]]></text>
+        <annotations>r0-8 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="30_19027527" type="label" x="-102763.856987652" y="-15350.723154949414" r="0" s="175.9031342570192" class="strong">
+      <textfield autoSize="true">
+        <x>-50.2</x>
+        <y>-17.5</y>
+        <text><![CDATA[BabyMEG]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="32_19027527" type="label" x="-102816.85" y="49413.6" r="0" s="89.7464970699078" class="strong">
+      <textfield autoSize="true">
+        <x>-85.65</x>
+        <y>-17.5</y>
+        <text><![CDATA[Vector View 306]]></text>
+        <annotations>r0-15 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="34_19027527" type="image" x="109609.34999999987" y="-66675.29999999993" r="0" s="90.20813820068481">
+      <source w="1418" h="206">482234408.png<url>482234408.png</url>
+        <mask x="202" y="0" w="145" h="171"/>
+      </source>
+      <sourceUrl>Logos.png</sourceUrl>
+    <resource><id>
+        482234408
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/6/1/dafb3b51d869131680abe75681fac56a6ce71.png</url></resource></object>
+    <object id="35_19027527" type="image" x="76987.69345926639" y="-66675.29999999993" r="0" s="61.85700905189818">
+      <source w="1418" h="206">482234408.png<url>482234408.png</url>
+        <mask x="748" y="0" w="258" h="206"/>
+      </source>
+      <sourceUrl>Logos.png</sourceUrl>
+    <resource><id>
+        482234408
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/6/1/dafb3b51d869131680abe75681fac56a6ce71.png</url></resource></object>
+    <object id="36_19027527" type="image" x="123996.84999999987" y="-66884.64999999992" r="0" s="80.49999999999991">
+      <source w="1418" h="206">482234408.png<url>482234408.png</url>
+        <mask x="1027" y="0" w="182" h="184"/>
+      </source>
+      <sourceUrl>Logos.png</sourceUrl>
+    <resource><id>
+        482234408
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/6/1/dafb3b51d869131680abe75681fac56a6ce71.png</url></resource></object>
+    <object id="37_19027527" type="image" x="93642.2999999999" y="-66675.29999999993" r="0" s="87.63076282352242">
+      <source w="1418" h="206">482234408.png<url>482234408.png</url>
+        <mask x="1220" y="0" w="198" h="206"/>
+      </source>
+      <sourceUrl>Logos.png</sourceUrl>
+    <resource><id>
+        482234408
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/6/1/dafb3b51d869131680abe75681fac56a6ce71.png</url></resource></object>
+    <object id="45_19027527" type="shape" x="-48.1987166094317" y="13555.214476000096" r="0" s="4.729667532625538" class="poly3">
+      <style borderThickness="4"/>
+      <style borderThickness="4"/>
+      <geom type="poly">
+        <p x="-106.56047194660177" y="-89.50124965594472"/>
+        <p x="106.56047194660177" y="-89.50124965594472"/>
+        <p x="106.56047194660177" y="89.50124965594472"/>
+        <p x="-106.56047194660177" y="89.50124965594472"/>
+        <t>4</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect1</parentObjlib>
+      </meta>
+    </object>
+    <object id="48_19027527" type="label" x="-88.3007569325313" y="13206.130450075969" r="0" s="3.6215101708538935" class="strong">
+      <textfield autoSize="true">
+        <x>-91.3</x>
+        <y>-17.5</y>
+        <text><![CDATA[BabyMEG Control]]></text>
+        <annotations>r0-15 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="45_311803" type="button" x="1020.0562636990616" y="14136.45607937135" r="0" s="3.9107134218898545" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1209.2464878671774</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="51_19027527" type="shape" x="1983.9878997430417" y="13979.097588866885" r="0" s="2.7265458416936776" class="poly3">
+      <style borderThickness="7"/>
+      <style borderThickness="7"/>
+      <geom type="poly">
+        <p x="-181.33866272916288" y="-211.33020740314123"/>
+        <p x="181.33866272916288" y="-211.33020740314123"/>
+        <p x="181.33866272916288" y="211.33020740314123"/>
+        <p x="-181.33866272916288" y="211.33020740314123"/>
+        <t>7</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect1</parentObjlib>
+      </meta>
+    </object>
+    <object id="52_19027527" type="label" x="1989.4800665910689" y="13470.668318874003" r="0" s="3.6215101708538935" class="strong">
+      <textfield autoSize="true">
+        <x>-51.4</x>
+        <y>-17.5</y>
+        <text><![CDATA[RT Server]]></text>
+        <annotations>r0-9 { color: #35afa9; }
+r0-9 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="53_19027527" type="shape" x="1982.3439899560956" y="13552.747340157353" r="0" s="2.5773753771624235" class="line3">
+      <geom type="line">
+        <sp>-187.41580588591867 0</sp>
+        <ep>187.41580588591867 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="54_19027527" type="shape" x="1720.9234563048215" y="13863.832034147685" r="0" s="2.5773753771624235" class="line3">
+      <geom type="line">
+        <sp>-86.0785109438536 0</sp>
+        <ep>86.0785109438536 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="55_19027527" type="shape" x="1942.7800909143145" y="14018.378404325813" r="89.99999999999997" s="2.5773753771624244" class="line3">
+      <geom type="line">
+        <sp>-59.96269365631462 0</sp>
+        <ep>59.96269365631462 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="56_19027527" type="label" x="1711.6646468573442" y="14015.464879156063" r="0" s="3.6215101708538935" class="strong">
+      <textfield autoSize="true">
+        <x>-50.2</x>
+        <y>-33</y>
+        <text><![CDATA[BabyMEG
+Plugin]]></text>
+        <annotations>r0-14 { color: #35afa9; }
+r0-8 { align: left; }
+r8-14 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="57_19027527" type="shape" x="-46.591294745907135" y="13273.142209882206" r="0" s="2.5773753771624226" class="line3">
+      <geom type="line">
+        <sp>-191.8830273626228 0</sp>
+        <ep>191.8830273626228 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="58_19027527" type="shape" x="1217.5069886018046" y="14015.879926623942" r="-1.6268668081473327e-14" s="2.5773753771624235" class="line3">
+      <geom type="line">
+        <sp>-98.5837564666332 0</sp>
+        <ep>98.5837564666332 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="59_19027527" type="label" x="971.1697498163886" y="13206.130906088967" r="0" s="3.6215101708538935" class="strong">
+      <textfield autoSize="true">
+        <x>-36.6</x>
+        <y>-17.5</y>
+        <text><![CDATA[TCP/IP]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="60_19027527" type="shape" x="713.616124728887" y="13572.462315313676" r="0" s="2.5773753771624235" class="line3">
+      <geom type="line">
+        <sp>-97.22948014736414 0</sp>
+        <ep>97.22948014736414 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="61_19027527" type="shape" x="963.8456963546654" y="13794.185490938622" r="-89.88988861760768" s="2.5773753771624244" class="line3">
+      <geom type="line">
+        <sp>86.0157379661034 0</sp>
+        <ep>-86.01573796610339 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="62_19027527" type="shape" x="-2430.5840099380566" y="13578.173004278646" r="-1.0097977940096079e-14" s="2.5773753771624244" class="line3">
+      <geom type="line">
+        <sp>-724.8116216932664 0</sp>
+        <ep>724.8116216932663 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="63_19027527" type="shape" x="4270.110009693338" y="13931.016324602502" r="-5.814831982799501e-16" s="2.5773753771624235" class="line3">
+      <geom type="line">
+        <sp>-693.7291547410338 0</sp>
+        <ep>693.7291547410339 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="0_311803" type="image" x="-122512.44999999988" y="-66932.19999999992" r="0" s="81.49999999999991">
+      <source w="1609" h="206">482521144.png<url>482521144.png</url>
+        <mask x="1461" y="0" w="148" h="163"/>
+      </source>
+      <sourceUrl>Logos.png</sourceUrl>
+    <resource><id>
+        482521144
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/1/9/c0c00ac7900d0b76058a591191a34773c7a3b.png</url></resource></object>
+    <object id="1_311803" type="shape" x="-38631.998651476235" y="-6988.0036064481965" r="0" s="67.72157767296673" class="line5">
+      <geom type="line">
+        <sp>-146.2557365700566 0</sp>
+        <ep>146.2557365700566 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="2_311803" type="shape" x="-28708.858503353193" y="2681.0950234167703" r="89.8905477402778" s="67.72157767296665" class="line5">
+      <geom type="line">
+        <sp>-142.77748104285988 0</sp>
+        <ep>142.77748104285988 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="3_311803" type="shape" x="-42400.50628558019" y="36352.94452204631" r="-0.00869192665342794" s="67.7215776729668" class="line5">
+      <geom type="line">
+        <sp>-207.9820343932685 0</sp>
+        <ep>207.9820343932685 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="4_311803" type="shape" x="-28380.473070781096" y="26288.77574788989" r="-90.36919969848216" s="67.72157767296673" class="line5">
+      <geom type="line">
+        <sp>-148.58249478815355 0</sp>
+        <ep>148.58249478815355 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="25_19027527" type="image" x="-62246.344532611074" y="48277.60346456617" r="0" s="36.337070294892875">
+      <source w="1193" h="1148">482205310.png<url>482205310.png</url>
+      </source>
+      <sourceUrl>Neuromag.png</sourceUrl>
+    <resource><id>
+        482205310
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/6/9/faf3ca9200c9820904ceda7f515ef6479fb63.png</url></resource></object>
+    <object id="5_311803" type="shape" x="-17452.483993819067" y="12350.193653281738" r="0" s="67.72157767296673" class="line5">
+      <geom type="arrow">
+        <sp>-165.94273157553928 0</sp>
+        <ep>165.94273157553928 0</ep>
+        <t>7</t>
+      </geom>
+    </object>
+    <object id="6_311803" type="shape" x="-17371.837194765132" y="16226.74368730195" r="0" s="67.72157767296673" class="line5">
+      <geom type="arrow">
+        <sp>-163.51470796153504 0</sp>
+        <ep>163.51470796153504 0</ep>
+        <t>7</t>
+      </geom>
+    </object>
+    <object id="7_311803" type="shape" x="46332.44670405973" y="-21165.28218292991" r="-7.13067860646299e-15" s="67.72157767296673" class="line5">
+      <geom type="arrow">
+        <sp>-183.4794065737128 0</sp>
+        <ep>183.4794065737128 0</ep>
+        <t>7</t>
+      </geom>
+    </object>
+    <object id="9_311803" type="shape" x="45984.47449647163" y="54674.47599603423" r="0" s="67.72157767296673" class="line5">
+      <geom type="arrow">
+        <sp>-179.91723534104025 0</sp>
+        <ep>179.91723534104025 0</ep>
+        <t>7</t>
+      </geom>
+    </object>
+    <object id="10_311803" type="shape" x="33906.9318203882" y="-4707.313204418123" r="90" s="48.372555480690515" class="line5">
+      <geom type="line">
+        <sp>-340.23360591485647 0</sp>
+        <ep>340.23360591485647 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="12_311803" type="shape" x="33800.19546861796" y="35334.04399430506" r="-90" s="48.372555480690515" class="line5">
+      <geom type="line">
+        <sp>-399.8224160278142 0</sp>
+        <ep>399.8224160278142 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="47_311803" type="button" x="-67278.00133920881" y="50318.719435490995" r="0" s="2.268314611784639" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>976.1989342806392</h>
+      </size>
+    </object>
+    <object id="14_311803" type="image" x="-67295.98988327819" y="50343.10978494977" r="0" s="2.116299302280211">
+      <source w="521" h="842">482549172.png<url>482549172.png</url>
+      </source>
+      <sourceUrl>Neuromag_device.png</sourceUrl>
+    <resource><id>
+        482549172
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/f/4/56a8657e5a5fd5a4723f759a894942c84ac3e.png</url></resource></object>
+    <object id="16_311803" type="label" x="-148.96757903220566" y="13556.08921578962" r="0" s="3.6215101708538935" class="body">
+      <textfield>
+        <x>-98.6</x>
+        <y>-63.9</y>
+        <text><![CDATA[LabView
+Communication with NI/FLL Cards]]></text>
+        <w>197.25</w>
+        <h>127.8</h>
+        <annotations>r0-8 { bullet: true; }
+r0-8 { align: left; }
+r0-8 { blockIndent: 36; }
+r8-39 { bullet: true; }
+r8-39 { align: left; }
+r8-39 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="25_311803" type="persistentgroup" x="-48.1987166094317" y="13555.214476000096" r="0" s="2.762736108459738">
+      <m o="45_19027527"/>
+      <m o="48_19027527"/>
+      <m o="57_19027527"/>
+      <m o="16_311803"/>
+    </object>
+    <object id="17_311803" type="shape" x="1717.484469938614" y="14175.192568995664" r="0.09789872824167932" s="2.1162993022802112" class="line3">
+      <geom type="line">
+        <sp>-106.46536933922188 0</sp>
+        <ep>106.4653693392219 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="37_311803" type="persistentgroup" x="1718.4350334515311" y="14018.789838164572" r="0" s="2.762736108459738">
+      <m o="54_19027527"/>
+      <m o="55_19027527"/>
+      <m o="56_19027527"/>
+      <m o="17_311803"/>
+    </object>
+    <object id="18_311803" type="shape" x="1726.5845569384203" y="14214.026661192494" r="0" s="2.5773753771624235" class="line3">
+      <geom type="line">
+        <sp>-86.0785109438536 0</sp>
+        <ep>86.0785109438536 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="19_311803" type="shape" x="1948.4411915479159" y="14368.573031370628" r="89.99999999999997" s="2.5773753771624244" class="line3">
+      <geom type="line">
+        <sp>-59.96269365631462 0</sp>
+        <ep>59.96269365631462 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="20_311803" type="label" x="1729.524762527468" y="14365.904402783313" r="0" s="3.6215101708538935" class="strong">
+      <textfield autoSize="true">
+        <x>-55.2</x>
+        <y>-33</y>
+        <text><![CDATA[Neuromag
+Plugin]]></text>
+        <annotations>r0-15 { color: #35afa9; }
+r0-9 { align: left; }
+r9-15 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="21_311803" type="shape" x="1723.1455705722165" y="14525.38719604048" r="0.09789872824167932" s="2.1162993022802112" class="line3">
+      <geom type="line">
+        <sp>-106.46536933922188 0</sp>
+        <ep>106.4653693392219 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="38_311803" type="persistentgroup" x="1724.0961340851313" y="14368.984465209383" r="0" s="2.762736108459738">
+      <m o="18_311803"/>
+      <m o="19_311803"/>
+      <m o="20_311803"/>
+      <m o="21_311803"/>
+    </object>
+    <object id="26_311803" type="shape" x="-47.51091933619086" y="14702.142882870854" r="0" s="4.729667532625538" class="poly3">
+      <style borderThickness="4"/>
+      <style borderThickness="4"/>
+      <geom type="poly">
+        <p x="-106.56047194660177" y="-89.50124965594472"/>
+        <p x="106.56047194660177" y="-89.50124965594472"/>
+        <p x="106.56047194660177" y="89.50124965594472"/>
+        <p x="-106.56047194660177" y="89.50124965594472"/>
+        <t>4</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentObjlib>rect1</parentObjlib>
+      </meta>
+    </object>
+    <object id="27_311803" type="label" x="-20.79609700703617" y="14353.058856946727" r="0" s="3.6215101708538935" class="strong">
+      <textfield autoSize="true">
+        <x>-109.75</x>
+        <y>-17.5</y>
+        <text><![CDATA[Neuromag Collectors]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="28_311803" type="shape" x="-45.90349747266629" y="14420.070616752952" r="0" s="2.5773753771624226" class="line3">
+      <geom type="line">
+        <sp>-191.8830273626228 0</sp>
+        <ep>191.8830273626228 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="29_311803" type="label" x="-148.2797817589649" y="14703.017622660365" r="0" s="3.6215101708538935" class="body">
+      <textfield>
+        <x>-98.6</x>
+        <y>-63.9</y>
+        <text><![CDATA[C
+Communication with real-time computers]]></text>
+        <w>197.25</w>
+        <h>127.8</h>
+        <annotations>r0-2 { bullet: true; }
+r0-2 { align: left; }
+r0-2 { blockIndent: 36; }
+r2-40 { bullet: true; }
+r2-40 { align: left; }
+r2-40 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="30_311803" type="persistentgroup" x="-47.51091933619091" y="14702.142882870854" r="0" s="2.762736108459738">
+      <m o="26_311803"/>
+      <m o="27_311803"/>
+      <m o="28_311803"/>
+      <m o="29_311803"/>
+    </object>
+    <object id="32_311803" type="shape" x="1220.652044627207" y="14360.472945322954" r="-1.626866808147332e-14" s="2.5773753771624235" class="line3">
+      <geom type="line">
+        <sp>-98.5837564666332 0</sp>
+        <ep>98.5837564666332 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="33_311803" type="shape" x="715.4384936903639" y="14758.813381494654" r="0" s="2.5773753771624235" class="line3">
+      <geom type="line">
+        <sp>-97.22948014736414 0</sp>
+        <ep>97.22948014736414 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="34_311803" type="shape" x="966.3029551068262" y="14559.631079637336" r="-89.92310072165357" s="2.577375377162425" class="line3">
+      <geom type="line">
+        <sp>77.28112987396169 0</sp>
+        <ep>-77.2811298739617 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="35_311803" type="persistentgroup" x="969.78499753837" y="14559.631079637336" r="0" s="2.762736108459738">
+      <m o="32_311803"/>
+      <m o="33_311803"/>
+      <m o="34_311803"/>
+    </object>
+    <object id="36_311803" type="label" x="1949.197370325886" y="13694.308247642455" r="0" s="3.6215101708538935" class="body">
+      <textfield>
+        <x>-140.3</x>
+        <y>-32.95</y>
+        <text><![CDATA[Part of MNE-Suite
+Cross-platform (Qt/C++)]]></text>
+        <annotations>r0-41 { color: #000; }
+r0-18 { bullet: true; }
+r0-18 { align: left; }
+r0-18 { blockIndent: 36; }
+r18-41 { bullet: true; }
+r18-41 { align: left; }
+r18-41 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="39_311803" type="shape" x="-2425.2562444568757" y="14772.335812929" r="-1.0097977940096079e-14" s="2.5773753771624244" class="line3">
+      <geom type="line">
+        <sp>-724.8116216932664 0</sp>
+        <ep>724.8116216932663 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="40_311803" type="label" x="916.8376217028407" y="13409.031101695082" r="0" s="3.6215101708538935" class="body">
+      <textfield>
+        <x>-137.15</x>
+        <y>-32.95</y>
+        <text><![CDATA[Device specific communication protocol]]></text>
+        <w>274.35</w>
+        <h>65.9</h>
+        <annotations>r0-38 { color: #000; }
+r0-38 { bullet: true; }
+r0-38 { align: left; }
+r0-38 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="41_311803" type="label" x="-995.1368394147121" y="13258.98548116342" r="0" s="3.6215101708538935" class="strong">
+      <textfield>
+        <x>-83.65</x>
+        <y>-33</y>
+        <text><![CDATA[Device Specific Connection]]></text>
+        <w>167.35</w>
+        <h>66</h>
+        <annotations>r0-26 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="42_311803" type="label" x="2967.7923265526524" y="13209.516984972623" r="0" s="3.6215101708538935" class="strong">
+      <textfield autoSize="true">
+        <x>-36.6</x>
+        <y>-17.5</y>
+        <text><![CDATA[TCP/IP]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="43_311803" type="label" x="2915.5745610294543" y="13564.23643976698" r="0" s="3.6215101708538935" class="body">
+      <textfield>
+        <x>-115.3</x>
+        <y>-63.9</y>
+        <text><![CDATA[Fiff stream similliar to fiff file
+Multiple clients at the same time]]></text>
+        <w>230.6</w>
+        <h>127.8</h>
+        <annotations>r0-68 { color: #000; }
+r0-35 { bullet: true; }
+r0-35 { align: left; }
+r0-35 { blockIndent: 36; }
+r35-68 { bullet: true; }
+r35-68 { align: left; }
+r35-68 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="69_311803" type="button" x="73358.07632717732" y="-25718.803438303272" r="0" s="4.554051642520406" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>798.5565921492695</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="49_311803" type="label" x="73471.13961740164" y="-26756.266263763595" r="0" s="11.110571336971107" class="head">
+      <textfield autoSize="true">
+        <x>-105.25</x>
+        <y>-18.3</y>
+        <text><![CDATA[Real-Time Clients]]></text>
+        <annotations>r0-17 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="50_311803" type="shape" x="4270.110009693337" y="14085.664896116625" r="-5.814831982799501e-16" s="2.5773753771624235" class="line3">
+      <geom type="line">
+        <sp>-693.7291547410338 0</sp>
+        <ep>693.7291547410339 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="51_311803" type="label" x="73308.55492350392" y="-25550.002115205152" r="0" s="8.465197209120841" class="body">
+      <textfield>
+        <x>-198.85</x>
+        <y>-110.3</y>
+        <text><![CDATA[Multiple clients
+Need to know how to:
+Communicate using CLI/JSON
+Parse a fiff file/stream
+MNE-Suite provides:
+Python/C++/MATLAB interfaces
+Acquisition software MNE-X]]></text>
+        <annotations>r0-17 { bullet: true; }
+r0-17 { align: left; }
+r0-17 { blockIndent: 36; }
+r17-38 { bullet: true; }
+r17-38 { align: left; }
+r17-38 { blockIndent: 36; }
+r38-65 { bullet: true; }
+r38-65 { align: left; }
+r38-65 { blockIndent: 72; }
+r65-90 { bullet: true; }
+r65-90 { align: left; }
+r65-90 { blockIndent: 72; }
+r90-110 { bullet: true; }
+r90-110 { align: left; }
+r90-110 { blockIndent: 36; }
+r110-139 { bullet: true; }
+r110-139 { align: left; }
+r110-139 { blockIndent: 72; }
+r139-165 { bullet: true; }
+r139-165 { align: left; }
+r139-165 { blockIndent: 72; }</annotations>
+      </textfield>
+    </object>
+    <object id="71_311803" type="button" x="71230.61354607753" y="-22709.16129304803" r="0" s="4.793205585735026" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>798.9431968295904</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="52_311803" type="label" x="71154.2680487478" y="-23828.78943891938" r="0" s="10.581496511401047" class="head">
+      <textfield autoSize="true">
+        <x>-59.6</x>
+        <y>-18.3</y>
+        <text><![CDATA[MNE-X (1)]]></text>
+        <annotations>r0-9 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="53_311803" type="label" x="70841.00284452776" y="-22495.997045825847" r="0" s="8.465197209120841" class="body">
+      <textfield>
+        <x>-222.25</x>
+        <y>-141.25</y>
+        <text><![CDATA[MNE-Suite
+Cross-platform                        (Qt/C++, PySide/Python)
+Plug-in based architecture
+Real-time SSS/SSP
+Real-time average
+Real-time frequency estimation
+Real-time source localization
+...]]></text>
+        <w>444.55</w>
+        <h>282.55</h>
+        <annotations>r0-10 { bullet: true; }
+r0-10 { align: left; }
+r0-10 { blockIndent: 108; }
+r10-72 { bullet: true; }
+r10-72 { align: left; }
+r10-72 { blockIndent: 108; }
+r72-99 { bullet: true; }
+r72-99 { align: left; }
+r72-99 { blockIndent: 108; }
+r99-117 { bullet: true; }
+r99-117 { align: left; }
+r99-117 { blockIndent: 144; }
+r117-135 { bullet: true; }
+r117-135 { align: left; }
+r117-135 { blockIndent: 144; }
+r135-166 { bullet: true; }
+r135-166 { align: left; }
+r135-166 { blockIndent: 144; }
+r166-196 { bullet: true; }
+r166-196 { align: left; }
+r166-196 { blockIndent: 144; }
+r196-199 { bullet: true; }
+r196-199 { align: left; }
+r196-199 { blockIndent: 144; }</annotations>
+      </textfield>
+    </object>
+    <object id="73_311803" type="button" x="66194.56191140643" y="-18943.735759465962" r="0" s="4.761673430130473" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>798.9738050229544</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="55_311803" type="image" x="65321.12031632337" y="-18883.966228602127" r="0" s="3.058020012902791">
+      <source w="723" h="730">482613504.jpg<url>482613504.jpg</url>
+        <mask x="84" y="90" w="543" h="481"/>
+      </source>
+      <sourceUrl>RT-Source Localization.jpg</sourceUrl>
+    <resource><id>
+        482613504
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/8/c/d34dc228c3e3e7169f48407e6834c877e8fa1.jpg</url></resource></object>
+    <object id="54_311803" type="label" x="66194.52368615629" y="-20081.35742951596" r="0" s="9.50630560887864" class="head">
+      <textfield autoSize="true">
+        <x>-178.25</x>
+        <y>-18.3</y>
+        <text><![CDATA[Real-time Source Localization]]></text>
+        <annotations>r0-29 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="56_311803" type="label" x="65270.99805518865" y="-18073.108825049123" r="0" s="3.8897526181124853" class="strong">
+      <textfield autoSize="true">
+        <x>-204</x>
+        <y>-17.5</y>
+        <text><![CDATA[Fig.: 3D stereoscopic red/cyan ROI view]]></text>
+        <annotations>r0-39 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="57_311803" type="label" x="67030.58145263673" y="-19229.007568351968" r="0" s="6.880545029031282" class="body">
+      <textfield>
+        <x>-135.85</x>
+        <y>-63.9</y>
+        <text><![CDATA[Real-Time Minimum Norm Estimates
+
+Real-Time RAP-MUSIC]]></text>
+        <w>271.75</w>
+        <h>127.8</h>
+        <annotations>r0-33 { bullet: true; }
+r0-33 { align: left; }
+r0-33 { blockIndent: 36; }
+r34-53 { bullet: true; }
+r34-53 { align: left; }
+r34-53 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="58_311803" type="label" x="70165.79755213525" y="-20182.723185985906" r="0" s="6.851613266532969" class="body">
+      <textfield autoSize="true">
+        <x>-121.5</x>
+        <y>-17.45</y>
+        <text><![CDATA[Thanks to/and groups of:]]></text>
+        <annotations>r0-24 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="59_311803" type="label" x="70409.09963868278" y="-18960.972103915123" r="0" s="8.136290754007899" class="body">
+      <textfield autoSize="true">
+        <x>-93.5</x>
+        <y>-17.45</y>
+        <text><![CDATA[Prof. Yoshio Okada]]></text>
+        <annotations>r0-18 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="60_311803" type="label" x="70567.80265994287" y="-19801.48363179174" r="0" s="8.136290754007899" class="body">
+      <textfield autoSize="true">
+        <x>-112.8</x>
+        <y>-17.45</y>
+        <text><![CDATA[Prof. Matti Hämäläinen]]></text>
+        <annotations>r0-22 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="61_311803" type="label" x="70404.52606365176" y="-19384.27937036092" r="0" s="8.136290754007899" class="body">
+      <textfield autoSize="true">
+        <x>-92.75</x>
+        <y>-17.45</y>
+        <text><![CDATA[Prof. Jens Haueisen]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="62_311803" type="label" x="72322.01388260607" y="-17831.397806128523" r="0" s="4.894009476094975" class="body">
+      <textfield>
+        <x>-147.9</x>
+        <y>-32.95</y>
+        <text><![CDATA[Christoph Dinh
+chdinh@nmr.mgh.harvard.edu]]></text>
+        <w>295.85</w>
+        <h>65.9</h>
+        <annotations>r0-15 { align: right; }
+r15-41 { align: right; }</annotations>
+      </textfield>
+    </object>
+    <object id="63_311803" type="label" x="72201.4283131841" y="-19341.929162307326" r="0" s="3.4957210543535555" class="body">
+      <textfield>
+        <x>-235.4</x>
+        <y>-17.45</y>
+        <text><![CDATA[Ilmenau University of Technology, Ilmenau, GER]]></text>
+        <annotations>r0-46 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="1_603663" type="persistentgroup" x="71337.10307279823" y="-19384.27937036092" r="0" s="3.494814224984444">
+      <m o="61_311803"/>
+      <m o="63_311803"/>
+    </object>
+    <object id="65_311803" type="label" x="72506.12112981759" y="-18924.484338437946" r="0" s="3.4957210543535555" class="body">
+      <textfield>
+        <x>-147.8</x>
+        <y>-17.45</y>
+        <text><![CDATA[Childrens Hospital, Boston, US]]></text>
+        <annotations>r0-30 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="0_603663" type="persistentgroup" x="71335.47087378261" y="-18960.972103915123" r="0" s="3.494814224984444">
+      <m o="59_311803"/>
+      <m o="65_311803"/>
+    </object>
+    <object id="66_311803" type="label" x="72906.45649424131" y="-18048.72241442638" r="0" s="3.4957210543535555" class="body">
+      <textfield autoSize="true">
+        <x>-39</x>
+        <y>-17.45</y>
+        <text><![CDATA[Contact]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="74_311803" type="button" x="71230.6664535601" y="-18943.735759465962" r="0" s="4.761673430130473" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>798.8448844884489</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="70_311803" type="label" x="75474.9047042831" y="-23870.69216510452" r="0" s="10.581496511401047" class="head">
+      <textfield autoSize="true">
+        <x>-59.6</x>
+        <y>-18.3</y>
+        <text><![CDATA[MNE-X (2)]]></text>
+        <annotations>r0-9 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="1_19363159" type="image" x="-92329.14999999989" y="-66551.59999999993" r="0" s="87.49999999999991">
+      <source w="1609" h="206">482521144.png<url>482521144.png</url>
+        <mask x="365" y="0" w="154" h="166"/>
+      </source>
+      <sourceUrl>Logos.png</sourceUrl>
+    <resource><id>
+        482521144
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/1/9/c0c00ac7900d0b76058a591191a34773c7a3b.png</url></resource></object>
+    <object id="2_19363159" type="image" x="-76866.44999999992" y="-66741.89999999992" r="0" s="83.4999999999999">
+      <source w="1609" h="206">482521144.png<url>482521144.png</url>
+        <mask x="541" y="0" w="183" h="170"/>
+      </source>
+      <sourceUrl>Logos.png</sourceUrl>
+    <resource><id>
+        482521144
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/1/9/c0c00ac7900d0b76058a591191a34773c7a3b.png</url></resource></object>
+    <object id="0_4215825" type="label" x="72445.89742728925" y="-19762.57808558" r="0" s="3.4957210543535555" class="body">
+      <textfield>
+        <x>-165.4</x>
+        <y>-17.45</y>
+        <text><![CDATA[Martinos Center, Charlestown, US]]></text>
+        <annotations>r0-32 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="2_603663" type="persistentgroup" x="71337.10307279823" y="-19801.48363179174" r="0" s="3.494814224984444">
+      <m o="60_311803"/>
+      <m o="0_4215825"/>
+    </object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="39_19027527"/>
+    </s>
+    <s>
+      <eagle o="46_311803"/>
+    </s>
+    <s>
+      <eagle o="47_311803"/>
+    </s>
+    <s>
+      <eagle o="46_311803"/>
+    </s>
+    <s>
+      <eagle o="45_311803"/>
+    </s>
+    <s>
+      <eagle o="48_311803"/>
+    </s>
+    <s>
+      <eagle o="69_311803"/>
+    </s>
+    <s>
+      <eagle o="71_311803"/>
+    </s>
+    <s>
+      <eagle o="72_311803"/>
+    </s>
+    <s>
+      <eagle o="73_311803"/>
+    </s>
+    <s>
+      <eagle o="74_311803"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('PTSans.swf');
+	fontFamily: strong;
+}
+
+@font-face
+{
+	src: url('OpenSans-Bold.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('CrimsonText.swf');
+	fontFamily: body;
+}
+
+background
+{
+	gradStart: #808080;
+	gradEnd: #808080;
+}
+
+text
+{
+	padding: 1.2;
+}
+
+text.title
+{
+	fontFamily: head;
+	color: #fff808;
+}
+
+text.subtitle
+{
+	fontFamily: strong;
+	color: #fff;
+}
+
+text.body
+{
+	fontFamily: body;
+	color: #fff;
+}
+
+frame.circle
+{
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+	borderColor: #999;
+}
+
+frame.bracket
+{
+	borderThickness: 0;
+	thickness: 7;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #fff;
+	borderColor: #fff;
+}
+
+frame.rectangle
+{
+	borderThickness: 0;
+	radius: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+	borderColor: #fff;
+}
+
+arrow
+{
+	borderThickness: -1;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+	borderColor: #fff;
+}
+
+line
+{
+	color: #fff808;
+}
+
+line-arrow.style1
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+line-arrow.style2
+{
+	color: #c5c3c3;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+line-arrow.style3
+{
+	color: #fff808;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+line-arrow.style4
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+line-arrow.style5
+{
+	color: #000;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+circle
+{
+	thickness: 100;
+	radius: 0;
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+}
+
+shape
+{
+	gradEndAlpha: 0.8;
+	radius: 0;
+	lockTintAlpha: 0.6;
+	gradStartAlpha: 0.7;
+	thickness: 100;
+	borderAlpha: 1;
+}
+
+shape.style1
+{
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+	borderColor: #fff;
+}
+
+shape.style2
+{
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+	borderColor: #c5c3c3;
+}
+
+shape.style3
+{
+	borderThickness: 0;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+	borderColor: #fff808;
+}
+
+shape.style4
+{
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+	borderColor: #333;
+}
+
+shape.style5
+{
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+	borderColor: #000;
+}
+
+free-line
+{
+	color: #fff808;
+}
+
+free-marker
+{
+	alpha: 0.3;
+	color: #ffff0d;
+}
+
+grid
+{
+	color: #ddd;
+}
+
+ZCircle
+{
+	gradEndAlpha: 1;
+	radius: 0;
+	lockTintAlpha: 0;
+	gradStartAlpha: 1;
+	thickness: 100;
+	borderAlpha: 1;
+}
+
+ZPoly
+{
+	gradEndAlpha: 1;
+	radius: 0;
+	lockTintAlpha: 0;
+	gradStartAlpha: 1;
+	thickness: 100;
+	borderAlpha: 1;
+}
+
+Background
+{
+	gradStart: #fff;
+	gradEnd: #fff;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	fontFamily: head;
+	color: #004f75;
+}
+
+.line5
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.poly5
+{
+	borderThickness: 9;
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+	borderColor: #333;
+}
+
+ZLabel.strong
+{
+	fontFamily: strong;
+	color: #318bff;
+}
+
+.line1
+{
+	color: #3fc0ff;
+	gradEndColor: #3fc0ff;
+	gradStartColor: #3fc0ff;
+}
+
+.poly1
+{
+	borderThickness: 9;
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+	borderColor: #3fc0ff;
+}
+
+ZLabel.body
+{
+	fontFamily: body;
+	color: #333;
+}
+
+ZFrame.circle
+{
+	borderThickness: 0;
+	thickness: 10;
+	gradEndColor: #004f75;
+	gradStartColor: #004f75;
+	borderColor: #004f75;
+}
+
+.line4
+{
+	color: #ffbe00;
+	gradEndColor: #ffbe00;
+	gradStartColor: #ffbe00;
+}
+
+.poly4
+{
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #004f75;
+	gradStartColor: #004f75;
+	borderColor: #004f75;
+}
+
+ZFrame.bracket
+{
+	borderThickness: 0;
+	thickness: 10;
+	gradEndColor: #b2b2b2;
+	gradStartColor: #b2b2b2;
+	borderColor: #b2b2b2;
+}
+
+.line2
+{
+	color: #f00;
+	gradEndColor: #f00;
+	gradStartColor: #f00;
+	borderColor: #fff;
+}
+
+.poly2
+{
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #3fc0ff;
+	gradStartColor: #3fc0ff;
+	borderColor: #3fc0ff;
+}
+
+ZFrame.roundrect
+{
+	borderThickness: 0;
+	gradEndColor: #3fc0ff;
+	gradStartColor: #3fc0ff;
+	borderColor: #3fc0ff;
+}
+
+ZArrow
+{
+	gradStartColor: #333;
+	lockTintAlpha: 0;
+	borderThickness: 0;
+	thickness: 7;
+	gradEndColor: #333;
+	borderColor: #fff;
+}
+
+.line3
+{
+	color: #004f75;
+	gradEndColor: #004f75;
+	gradStartColor: #004f75;
+}
+
+.poly3
+{
+	borderThickness: 9;
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+	borderColor: #004f75;
+}
+
+ZLine
+{
+	lockTintAlpha: 0;
+	color: #333;
+}
+
+ZCurveLine
+{
+	color: #333;
+}
+
+ZMarker
+{
+	alpha: 0.3;
+	color: #00e1ff;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZPath
+{
+	alpha: 1;
+	thickness: 3;
+	color: #40abe6;
+	textColor: #fff;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	radius: 8;
+	fillColor: #40abe6;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	radius: 12;
+	fillColor: #40abe6;
+}
+
+]]></style>
+  <hash>d179f99</hash>
+<sync><oid>p8vsx2glmaab</oid><hash>d179f99</hash></sync><config>VlmLnbQiIeanb6APVgOMBwoIhRlDiLXsPt0gRUSnU1bzpWNaYzCmT+8CH4NfLSgV+AdugaCz7jb/1rC2+R4BeKAvYTauyOt749f/m5CmlqAgT7gPPrXKzJloLgqeZg0nH59akN9LmxJYFjW0z+aypRo6JEBF/8bm03Tu4zB8P8Tpc7jA/jdYymdS/M03SzTkf7RcPtJwwzcnVxhomeFjwutSCStUq742p5p9ZN9KRobKvC+Y7/1Vxpxz5XRSZ5BDOqmDcm2ydvc51JEqEK4x/eDL12TZa2vW+fpgyV+U5PA2rcFaDmMV7AWe2EXY7gwf3aoP7CoWbL+kWxQsVB2ujA==</config></zuiprezi>
